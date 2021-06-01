@@ -24,7 +24,7 @@ function isTrue(x){
     return x == true;
 }
 function or(x, y){
-    return (x || y);
+    return (x || y)
 }
 function and(x, y){
     return (x && y);
